@@ -1,4 +1,4 @@
-# begining
+# Beginning
 This is my start
 <br>
-Author - Gitartha Goswamio
+Author - Gitartha Goswami
